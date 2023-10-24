@@ -15,3 +15,12 @@ h1, h2 {
 .home-image {
     width: 50%;
 }
+
+.btn {
+background-color: chocolate;
+color: white;
+}
+
+.container-btn {
+text-align: center;
+}
